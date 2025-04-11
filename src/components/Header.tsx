@@ -27,7 +27,7 @@ export function Header() {
               <div className="w-7 h-7 sm:w-8 sm:h-8 bg-[#c1ff72] rounded-sm flex items-center justify-center border-2 border-b-3 border-r-3 border-black">
                 <span className="text-black text-base sm:text-xl">🎓</span>
               </div>
-              <span className="font-semibold text-sm sm:text-base">Mind Mentor</span>
+              <span className="font-semibold text-sm sm:text-base">Mind Maven </span>
             </Link>
           </div>
           
@@ -38,7 +38,7 @@ export function Header() {
                   <Tooltip>
                     <TooltipTrigger asChild>
                       <Link 
-                        href="https://github.com/KartikLabhshetwar/mind-mentor" 
+                        href="https://github.com/Octaelliptical/mind-maven_karn" 
                         target="_blank"
                         className="hidden sm:inline-block px-4 py-1.5 bg-[#c1ff72] border-2 border-b-4 border-r-4 border-black rounded-lg hover:bg-[#c1ff72] hover:border-b-2 hover:border-r-2 transition-all duration-100 text-sm font-medium shadow-sm hover:shadow active:border-b-2 active:border-r-2"
                       >

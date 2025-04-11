@@ -21,7 +21,7 @@ const lexend = Lexend({
 });
 
 export const metadata: Metadata = {
-  title: "Mind Mentor - Your AI Study Assistant",
+  title: "Mind Maven - Your AI Study Assistant",
   description: "Accelerate your learning with AI-powered study plans and resources",
 };
 

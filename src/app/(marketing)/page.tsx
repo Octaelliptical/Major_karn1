@@ -42,20 +42,20 @@ export default function Page() {
     <div className="container mx-auto px-4 py-8 sm:py-16 bg-[#EFE9D5]">
       <HeroSection
         title="Welcome to"
-        highlightedText="Mind Mentor"
+        highlightedText="Mind Maven"
         description="Your AI-powered study assistant for accelerated learning"
         ctaText={session ? "Go to Dashboard" : "Get Started"}
         ctaLink={session ? "/home" : "/register"}
       />
       
       <FeaturesGrid features={features} />
-
+{/* 
       <section className="py-12 sm:py-20">
         <h2 className="text-2xl sm:text-3xl font-bold text-center mb-8">
-          See Mind Mentor in Action
+          See Mind MAven in Action
         </h2>
         <Video />
-      </section>
+      </section> */}
 
       <section className="py-12 sm:py-20">
         <h2 className="text-2xl sm:text-3xl font-bold text-center mb-8 sm:mb-12">

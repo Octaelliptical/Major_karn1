@@ -28,14 +28,14 @@ const reviews = [
     img: "https://avatar.vercel.sh/dkim",
   },
   {
-    name: "Lisa Patel",
-    username: "@lpatel",
+    name: "SuSh",
+    username: "@lSush",
     body: "Finally found a study tool that actually understands what I need.",
     img: "https://avatar.vercel.sh/lpatel",
   },
   {
-    name: "Alex Thompson",
-    username: "@alexthompson",
+    name: "Karan_dubey",
+    username: "@karan_dubeyy",
     body: "The resource curation is amazing. Saves me hours of searching!",
     img: "https://avatar.vercel.sh/alexthompson",
   },

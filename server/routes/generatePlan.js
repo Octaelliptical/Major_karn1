@@ -1,6 +1,9 @@
 import express from 'express';
 import { generatePlan } from '../services/aiService.js';
 import StudyPlan from '../models/studyPlan.js';
+import cors from 'cors';
+
+
 
 const router = express.Router();
 
