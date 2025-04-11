@@ -30,8 +30,8 @@ const startServer = async () => {
   app.use(
     cors({
       origin: [
-        "https://mind-mentor-pearl.vercel.app",
-        "https://mind-mentor.kartiklabhshetwar.me",
+        "https://major-karn.vercel.app/",
+        "https://major-karn.onrender.com",
         "http://localhost:3000",
       ],
       credentials: true,
