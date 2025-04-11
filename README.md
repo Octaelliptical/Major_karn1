@@ -14,7 +14,7 @@
 
 
 
-https://github.com/user-attachments/assets/1ea26947-1dca-408d-9741-b24c3429944a
+https://github.com/user-attachments/assets/1
 
 
 
@@ -212,10 +212,7 @@ We welcome contributions! Please follow these steps:
 4. Push to your branch
 5. Create a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-Built with 💡 by Kartik Labhshetwar
+Built with 💡 by karan dubey
